@@ -1,0 +1,6 @@
+Flask==2.3.2 # Or a compatible version you prefer
+Flask-Cors==4.0.0 # Or a compatible version you prefer
+opencv-python==4.9.0.80 # Or a compatible version that works with your system
+torch==2.3.0 # This exact version or compatible, as it's used with torch.hub.load
+ultralytics==8.2.35 # Or compatible, for YOLOv5 models, if not directly using torch.hub.load with local YOLOv5
+numpy==1.26.4 # Or a compatible version
