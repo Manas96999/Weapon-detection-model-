@@ -112,4 +112,3 @@ Examples: Include screenshots or GIFs demonstrating the model's detection capabi
 
 License
 This project is licensed under the Choose a License, e.g., MIT License - see the LICENSE file for details.
-
